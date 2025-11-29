@@ -1,0 +1,8 @@
+# terraform.tfvars for us-east-1 (Backend + Keycloak)
+# NEVER commit this file to git!
+
+domain_name              = "exampletemplate.link"
+db_password              = "JwDa<khd<9"
+keycloak_admin_password  = "JwDa<khd<9"
+project_name             = "keycloak-starter"
+environment              = "prod"

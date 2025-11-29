@@ -1,0 +1,6 @@
+# terraform.tfvars for us-west-2 (Frontend)
+# NEVER commit this file to git!
+
+domain_name  = "exampletemplate.link"
+project_name = "keycloak-starter"
+environment  = "prod"
