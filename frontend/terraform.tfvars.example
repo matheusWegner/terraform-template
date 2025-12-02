@@ -2,5 +2,5 @@
 # NEVER commit this file to git!
 
 domain_name  = "exampletemplate.link"
-project_name = "keycloak-starter"
+project_name = "template-starter"
 environment  = "prod"

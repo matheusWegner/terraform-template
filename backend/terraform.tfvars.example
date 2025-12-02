@@ -4,5 +4,5 @@
 domain_name              = "exampletemplate.link"
 db_password              = "JwDa<khd<9"
 keycloak_admin_password  = "JwDa<khd<9"
-project_name             = "keycloak-starter"
+project_name             = "template-starter"
 environment              = "prod"
